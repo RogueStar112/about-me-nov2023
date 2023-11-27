@@ -10,6 +10,7 @@ export default function Header() {
   <nav className="flex justify-between gap-4">
     <Link href="/about">About</Link>
     <Link href="/projects">Projects</Link>
+    <Link href="/blog">Blog</Link>
   </nav>  
 
   </header>
